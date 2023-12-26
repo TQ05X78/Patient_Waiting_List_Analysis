@@ -33,7 +33,8 @@ Conducted simple data wrangling and data cleaning:
 
 ## 📊 Visualization
 
-Produced a 1-pager dashboard using Tableau.
+Produced a 2-pager dashboard using Power BI.
 
-Power BI: 
+Power BI: ![Screenshot from 2023-12-26 18-18-14](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/400a63e0-35f5-45c6-b50c-1b6ed534a2b8)
 
+![Screenshot from 2023-12-26 18-18-14](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/36b5b3ef-83a4-4593-9802-beefb35df661)

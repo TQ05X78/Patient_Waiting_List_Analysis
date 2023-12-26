@@ -33,8 +33,10 @@ Conducted simple data wrangling and data cleaning:
 
 ## 📊 Visualization
 
-Produced a 2-pager dashboard using Power BI.
+Produced a 2-pager dashboard using Power BI:
 
-Power BI: ![Screenshot from 2023-12-26 18-18-14](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/400a63e0-35f5-45c6-b50c-1b6ed534a2b8)
+![Screenshot from 2023-12-26 18-17-59](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/af225587-ef2c-43cb-9b09-9629d099f017)
 
-![Screenshot from 2023-12-26 18-18-14](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/36b5b3ef-83a4-4593-9802-beefb35df661)
+![Screenshot from 2023-12-26 18-18-14](https://github.com/TQ05X78/Patient_Waiting_List_Analysis/assets/66067511/b596b1e9-ccb8-4991-b720-49138c9adee4)
+
+

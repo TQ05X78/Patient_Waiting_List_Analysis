@@ -15,9 +15,10 @@ The row count of Inpatient data is 182136 and the Outpatient data contains 27098
 
 ## 💡 Highlights
 
-- Total waiting list for the current month.
-- Waiting List for the last(previous year) for the same monthn so that we can find out how we are performing in terms of last year.
+- Total waiting list for the current month is 709K.
+- Waiting List for the last(previous year) for the same monthn is 640k,this helps to find out how we are performing in terms of last year.
 - Average Waiting list for bifurcation between outpattient, inpatient and day cases waiting list.
+- Average Waiting list for outpatient is 72%, for day case 17% and for inpatient 11%.
 - Relationship between age profile and the time band.
 - Top-5 average wait list by speciality.
 - Monthly trend analysis on the basis of inpatient day cases and outpatient.

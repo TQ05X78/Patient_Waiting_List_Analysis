@@ -23,13 +23,7 @@ The row count of Inpatient data is 182136 and the Outpatient data contains 27098
 - Top-5 average wait list by speciality.
 - Monthly trend analysis on the basis of inpatient day cases and outpatient.
 
-## ✏️ Data Wrangling
 
-Conducted simple data wrangling and data cleaning:
-- Removed rows with missing values
-- Cleaned `Time_Bands` and `Age_Profile` columns
-- Exclude rows with "Blank" values in Speciality column
-- Append both Inpatient and Outpatient data together for analysis purpose.
 
 
 ## 📊 Visualization
